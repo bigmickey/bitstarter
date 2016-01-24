@@ -1,0 +1,20 @@
+The following output was generated with this command line: ./grader.js --checks checks.json --url http://peaceful-ravine-7518.herokuapp.com 
+
+{
+    ".about": true,
+    ".blank": true,
+    ".faq": true,
+    ".footer": true,
+    ".heading": true,
+    ".logo": true,
+    ".navigation": true,
+    ".order": true,
+    ".pitch": true,
+    ".section1": true,
+    ".section2": true,
+    ".social": true,
+    ".subheading": true,
+    ".thermometer": true,
+    ".video": true,
+    "h1": true
+}
